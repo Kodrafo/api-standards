@@ -1,3 +1,5 @@
+##Caution: this is not the final version but work in progress. Use with caution
+
 - [URI Components](#uri-components)
   - [Version](#version)
   - [Namespaces](#namespaces)
