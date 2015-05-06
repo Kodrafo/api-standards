@@ -1,5 +1,6 @@
 ##Caution: this is not the final version but work in progress. Use with caution
 
+- [Introduction](#introduction)
 - [URI Components](#uri-components)
   - [Version](#version)
   - [Namespaces](#namespaces)
@@ -29,6 +30,12 @@
   - [Complex Operation - Transient](#complex-operation---transient)
   - [Complex Operation - Search](#complex-operation---search)
 - [Read-only resources](#read-only-resources)
+
+## Introduction
+
+The purpose of this style guide is to gather a list of rules, best practices, resources and our way of creating REST APIs in Haufe Group.
+The style guide focuses on REST APIs cause this is the preferred way to expose APIs to our services.
+The style guide is work in progress. We’d love your feedback – whether you agree, disagree, or have some additional practices and tips to add.
 
 When creating API capabilities, it's important to respect existing HTTP interaction
 patterns and resource models that we have utilized across the platform. If the interaction pattern you are planning on doesn't fit into these patterns, please consult with an API designer.
